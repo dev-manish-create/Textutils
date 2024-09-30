@@ -1,0 +1,3 @@
+start script 
+
+"start": "react-scripts start",
